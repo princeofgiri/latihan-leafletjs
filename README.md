@@ -1,0 +1,3 @@
+untuk latihan
+
+^_*
